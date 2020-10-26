@@ -8,5 +8,5 @@ cmake \
 	-DCMAKE_BUILD_TYPE=Release              \
 	-DFREEGLUT_BUILD_DEMOS=OFF              \
 	..
-make
+make -j${CPU_COUNT}
 make install
