@@ -36,6 +36,7 @@ requirements:
     - xorg-libxfixes                     # [linux]
     - xorg-libxi                         # [linux]
     - xorg-libxxf86vm                    # [linux]
+    - xorg-xf86vidmodeproto              # [linux]
     - xorg-xproto                        # [linux]
   run:
     - libxcb                             # [linux]
