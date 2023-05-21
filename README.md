@@ -194,6 +194,3 @@ Feedstock Maintainers
 * [@shadowwalkersb](https://github.com/shadowwalkersb/)
 * [@wolfv](https://github.com/wolfv/)
 
-
-<!-- dummy commit to enable rerendering -->
-
